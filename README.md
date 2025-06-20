@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Babji
 
-> Discipline. Focus. Code.
-
----
 
 ### 🧭 About Me
 
