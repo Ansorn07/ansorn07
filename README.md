@@ -12,8 +12,6 @@ I value clarity, simplicity, and purposeful design in both code and UI.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 
----
-
 ### 🗂️ Featured Projects
 
 | [TripNest](https://github.com/ansorn07/TripNest) | 
