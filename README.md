@@ -18,15 +18,3 @@ I value clarity, simplicity, and purposeful design in both code and UI.
 
 | [TripNest](https://github.com/ansorn07/TripNest) | 
 
-
----
-
-### 📬 Contact
-
-- 📧 babjiansorn77@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/a-s-babji-rao/)  
-- 🌍 [Portfolio](https://ansorn07.github.io/) *(coming soon)*
-
-
-> _“Discipline is the bridge between goals and results.”_
-
