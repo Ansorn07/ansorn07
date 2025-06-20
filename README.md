@@ -1,12 +1,6 @@
 I'm a **full-stack web developer** focused on building clean, efficient, and user-friendly web applications.  
 I value clarity, simplicity, and purposeful design in both code and UI.
 
-
-- 🌐 Frontend & Backend Developer (MERN, Flask)
-- 🎯 Focused on clean UI, practical UX, and real-world solutions
-
----
-
 ### ⚙️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
