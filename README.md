@@ -11,7 +11,6 @@ I value clarity, simplicity, and purposeful design in both code and UI.
 
 
 - 🌐 Frontend & Backend Developer (MERN, Flask)
-- 🔄 Always learning, building, and improving
 - 🎯 Focused on clean UI, practical UX, and real-world solutions
 
 ---
@@ -31,11 +30,8 @@ I value clarity, simplicity, and purposeful design in both code and UI.
 
 ### 🗂️ Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [AI Notes](https://github.com/ansorn07/ai-notes) | Smart note-taking with AI-powered summaries | React + Flask + OpenAI |
-| [Portfolio Website](https://ansorn07.github.io/) | My personal dev portfolio & resume | React + Tailwind |
-| [TaskFlow](https://github.com/ansorn07/taskflow) | Task manager with JWT login & reminders | React + Flask |
+| [TripNest](https://github.com/ansorn07/TripNest) | 
+
 
 ---
 
@@ -45,14 +41,6 @@ I value clarity, simplicity, and purposeful design in both code and UI.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/a-s-babji-rao/)  
 - 🌍 [Portfolio](https://ansorn07.github.io/) *(coming soon)*
 
----
-
-### 📈 GitHub Stats
-
-![Ansorn07's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansorn07&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansorn07&layout=compact&theme=gruvbox)
-
----
 
 > _“Discipline is the bridge between goals and results.”_
 
